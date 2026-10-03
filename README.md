@@ -20,6 +20,7 @@ Cozinheiros amadores e profissionais, chefs e apaixonados por gastronomia.
 | Ulisses | Líder do repositório e apresentação do projeto |
 | Bryan | Catálogo de facas e planos de assinatura |
 | Felipe | Tecnologias e funcionalidades |
+| Paloma | Perguntas frequentes (FAQ) |
 
 ## Catálogo de facas e planos de assinatura
 
@@ -53,3 +54,21 @@ Cozinheiros amadores e profissionais, chefs e apaixonados por gastronomia.
 - Escolha de plano de assinatura
 - Contratação e acompanhamento da assinatura
 - Área do cliente com histórico de entregas
+
+
+## Perguntas frequentes (FAQ)
+
+### Sobre a assinatura
+
+| Pergunta | Resposta |
+|---|---|
+| Como funciona a assinatura? | O cliente escolhe um plano, faz a contratação e recebe as facas selecionadas em casa, de forma recorrente |
+| Posso trocar de plano depois? | Sim. O cliente pode mudar para outro plano (Básico, Intermediário ou Premium) na área do cliente |
+| Posso cancelar a assinatura? | Sim, o cancelamento pode ser feito a qualquer momento pela área do cliente, sem multa |
+
+### Sobre as facas
+
+| Pergunta | Resposta |
+|---|---|
+| Como funciona a afiação? | O plano Intermediário inclui a afiação das facas. O cliente envia as peças e as recebe afiadas na entrega seguinte |
+| Quais facas posso receber? | As peças variam conforme o plano e fazem parte do catálogo: faca do chef, santoku, de pão, de desossa e de legumes |
