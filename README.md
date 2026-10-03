@@ -1,6 +1,6 @@
 # Cutelaria por Assinatura
 
-Site de cutelaria por assinatura, onde o cliente recebe facas selecionadas periodicamente.
+Site de cutelaria por assinatura, onde o cliente recebe facas artesanais selecionadas todo mês.
 
 ## Apresentação do projeto e da equipe
 
