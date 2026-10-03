@@ -12,4 +12,13 @@ _Seção a ser preenchida na issue #2._
 
 ## Tecnologias e funcionalidades
 
-_Seção a ser preenchida na issue #3._
+### Tecnologias
+- HTML e CSS para a estrutura e o visual do site
+- JavaScript para a interatividade
+- Git e GitHub para versionamento e trabalho em equipe
+
+### Funcionalidades previstas
+- Cadastro e login de clientes
+- Escolha de plano de assinatura
+- Contratação e acompanhamento da assinatura
+- Área do cliente com histórico de entregas
