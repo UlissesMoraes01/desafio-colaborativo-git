@@ -1,6 +1,6 @@
 # Cutelaria por Assinatura
 
-Site de cutelaria por assinatura, onde o cliente recebe facas artesanais selecionadas todo mês.
+Plataforma de assinatura de facas artesanais, com planos mensais e trimestrais e peças selecionadas todo mês.
 
 ## Apresentação do projeto e da equipe
 
@@ -23,7 +23,23 @@ Cozinheiros amadores e profissionais, chefs e apaixonados por gastronomia.
 
 ## Catálogo de facas e planos de assinatura
 
-_Seção a ser preenchida na issue #2._
+### Catálogo de facas
+
+| Faca | Uso principal | Material |
+|---|---|---|
+| Faca do chef | Cortes gerais de carnes e legumes | Aço inox |
+| Faca santoku | Fatiar e picar com precisão | Aço carbono |
+| Faca de pão | Cortar pães e bolos | Aço inox serrilhado |
+| Faca de desossa | Separar carne do osso | Aço inox |
+| Faca de legumes | Cortes pequenos e descascar | Aço inox |
+
+### Planos de assinatura
+
+| Plano | Periodicidade | O que inclui | Preço |
+|---|---|---|---|
+| Básico | Mensal | 1 faca por mês | R$ 59,90 |
+| Intermediário | Mensal | 2 facas por mês e afiação | R$ 99,90 |
+| Premium | Trimestral | 1 kit com 3 facas e estojo | R$ 249,90 |
 
 ## Tecnologias e funcionalidades
 
