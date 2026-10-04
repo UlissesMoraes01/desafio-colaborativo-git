@@ -42,6 +42,25 @@ Cozinheiros amadores e profissionais, chefs e apaixonados por gastronomia.
 | Intermediário | Mensal | 2 facas por mês e afiação | R$ 99,90 |
 | Premium | Trimestral | 1 kit com 3 facas e estojo | R$ 249,90 |
 
+## Como funciona a assinatura
+
+### Passo a passo para o cliente
+
+1. **Escolha o plano:** o cliente compara os planos Básico, Intermediário e Premium e seleciona o que combina com seu uso na cozinha.
+2. **Faça o cadastro:** criação da conta com dados pessoais e endereço de entrega.
+3. **Pagamento recorrente:** a cobrança acontece todo mês (planos mensais) ou a cada três meses (plano Premium).
+4. **Receba em casa:** as facas selecionadas chegam embaladas com segurança, de acordo com a periodicidade do plano.
+5. **Afiação (plano Intermediário):** o cliente pode enviar as facas para afiação e recebê-las de volta prontas para uso.
+6. **Acompanhe e gerencie:** na área do cliente é possível ver o histórico de entregas, trocar de plano ou cancelar.
+
+### Diferenciais
+
+- Facas selecionadas por especialistas, sem o cliente precisar pesquisar modelo por modelo.
+- Entrega recorrente, que forma a coleção do cliente aos poucos.
+- Opção de afiação incluída no plano Intermediário.
+- Estojo no plano Premium, para guardar e transportar as peças.
+
+
 ## Tecnologias e funcionalidades
 
 ### Tecnologias
