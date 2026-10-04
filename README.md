@@ -21,6 +21,7 @@ Cozinheiros amadores e profissionais, chefs e apaixonados por gastronomia.
 | Bryan | Catálogo de facas e planos de assinatura |
 | Felipe | Tecnologias e funcionalidades |
 | Paloma | Perguntas frequentes (FAQ) |
+| Isabelly | Como funciona assinatura |
 
 ## Catálogo de facas e planos de assinatura
 
