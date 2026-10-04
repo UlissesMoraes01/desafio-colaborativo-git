@@ -26,6 +26,7 @@ Cozinheiros amadores e profissionais, chefs e apaixonados por gastronomia.
 =======
 | Shira | Contato e redes sociais |
 >>>>>>> da59a5d991286d1b89753813d5471d709da7c32d
+| Lucas | Cuidados e manutenções |
 
 ## Catálogo de facas e planos de assinatura
 
@@ -80,6 +81,7 @@ Cozinheiros amadores e profissionais, chefs e apaixonados por gastronomia.
 - Área do cliente com histórico de entregas
 
 
+
 ## Perguntas frequentes (FAQ)
 
 ### Sobre a assinatura
@@ -123,3 +125,14 @@ Fale com a equipe do **Cutelaria por Assinatura** pelos canais abaixo. Tiramos d
 | ---------- | ------- |
 | Cidade | Brasília - DF |
 | Atendimento | Online, com envio para todo o Brasil |
+
+## 🧼 Cuidados e Manutenção
+
+Para aumentar a durabilidade das facas e manter a qualidade do corte, alguns cuidados são importantes:
+
+- Lavar as facas logo após o uso.
+- Secar completamente antes de guardar.
+- Evitar lavar as facas na máquina de lavar louças.
+- Utilizar tábuas de madeira ou plástico para o corte.
+- Manter as facas sempre afiadas.
+- Guardar em local seguro para evitar danos à lâmina.
