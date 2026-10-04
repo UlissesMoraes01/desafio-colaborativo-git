@@ -21,7 +21,11 @@ Cozinheiros amadores e profissionais, chefs e apaixonados por gastronomia.
 | Bryan | Catálogo de facas e planos de assinatura |
 | Felipe | Tecnologias e funcionalidades |
 | Paloma | Perguntas frequentes (FAQ) |
+<<<<<<< HEAD
 | Isabelly | Como funciona assinatura |
+=======
+| Shira | Contato e redes sociais |
+>>>>>>> da59a5d991286d1b89753813d5471d709da7c32d
 
 ## Catálogo de facas e planos de assinatura
 
@@ -92,3 +96,30 @@ Cozinheiros amadores e profissionais, chefs e apaixonados por gastronomia.
 |---|---|
 | Como funciona a afiação? | O plano Intermediário inclui a afiação das facas. O cliente envia as peças e as recebe afiadas na entrega seguinte |
 | Quais facas posso receber? | As peças variam conforme o plano e fazem parte do catálogo: faca do chef, santoku, de pão, de desossa e de legumes |
+
+## Contato e redes sociais
+
+Fale com a equipe do **Cutelaria por Assinatura** pelos canais abaixo. Tiramos dúvidas sobre planos, entregas, afiação e cancelamento.
+
+### Canais de atendimento
+
+| Canal | Contato | Horário de atendimento |
+| ----- | ------- | ---------------------- |
+| E-mail | contato@cutelariaporassinatura.com.br | Resposta em até 24 horas |
+| WhatsApp | (61) 99999-9999 | Segunda a sexta, das 9h às 18h |
+| Telefone | (61) 3333-3333 | Segunda a sexta, das 9h às 18h |
+
+### Redes sociais
+
+| Rede social | Perfil | Conteúdo |
+| ----------- | ------ | -------- |
+| Instagram | [@cutelariaporassinatura](https://instagram.com) | Fotos das facas, novidades e bastidores |
+| YouTube | [Cutelaria por Assinatura](https://youtube.com) | Dicas de cortes e cuidados com facas |
+| Facebook | [Cutelaria por Assinatura](https://facebook.com) | Promoções e avisos |
+
+### Endereço
+
+| Informação | Detalhe |
+| ---------- | ------- |
+| Cidade | Brasília - DF |
+| Atendimento | Online, com envio para todo o Brasil |
